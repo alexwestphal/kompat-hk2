@@ -100,7 +100,7 @@
         <repository>
             <id>bintray-ahwnz-kompat</id>
             <name>ahwnz-kompat</name>
-            <url>https://api.bintray.com/maven/ahwnz/kompatr/kompat-hk2/;publish=1</url>
+            <url>https://api.bintray.com/maven/ahwnz/kompat/kompat-hk2/;publish=1</url>
         </repository>
     </distributionManagement>
 </project>
