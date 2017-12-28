@@ -1,4 +1,4 @@
-Kompat HK2
+kompat-hk2
 ========
 
 A Kotlin compatibility layer for constructing HK2 Bindings and using HK2 Service Locators.
